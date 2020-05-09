@@ -128,3 +128,8 @@ dmypy.json
 
 # Mac service directories
 .DS_Store
+
+# AFS addition options
+.ash_history
+.bash_history
+.python_history
